@@ -98,7 +98,14 @@ button {
     border-radius: 0 10px 10px 0;
   }
 
-  button {
-    margin-top: 5rem;
+    .btn {
+    height: 100px;
+    width: 200px;
+    margin-top: 20%;
   }
+
+  button {
+    position: absolute;
+   
+}
 }
